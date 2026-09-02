@@ -32,3 +32,4 @@ jobs:
 
       - name: Desligar o servidor
         run: pkill -f app.py || true
+        
